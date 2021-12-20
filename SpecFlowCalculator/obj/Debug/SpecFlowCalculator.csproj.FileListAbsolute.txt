@@ -1,6 +1,0 @@
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.dll
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.pdb
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.AssemblyReference.cache
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.CoreCompileInputs.cache
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.dll
-C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.pdb
