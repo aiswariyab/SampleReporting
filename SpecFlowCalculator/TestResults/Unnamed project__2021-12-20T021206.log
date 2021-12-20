@@ -1,0 +1,134 @@
+﻿2021-12-20T02:12:05.9806630+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-12-20T02:12:05.9806630+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+2021-12-20T02:12:05.9806630+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-12-20T02:12:05.9806630+01:00;VSTestExecutionThread;Info;Current UserName: '320145759', MachineName: 'YY241610'
+2021-12-20T02:12:06.0386314+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:12:06.0386314+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults" (default)
+2021-12-20T02:12:06.0386314+01:00;VSTestExecutionThread;Info;Profile: 
+2021-12-20T02:12:06.0956652+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults\Unnamed project__2021-12-20T021206.log
+2021-12-20T02:12:06.1016630+01:00;Thread#13;Info;Checking activation
+2021-12-20T02:12:06.1796603+01:00;Thread#13;Info;Activated.
+2021-12-20T02:12:06.1796603+01:00;Thread#13;Info;Activation check completed
+2021-12-20T02:12:06.1796603+01:00;Thread#13;Info;Starting test run
+2021-12-20T02:12:06.2156307+01:00;Thread#13;Info;Discovering target: Default
+2021-12-20T02:12:06.2156307+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:12:06.5216670+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:12:06.5226285+01:00:Test Suite Dump
+2021-12-20T02:12:06.5236282+01:00:#0: Unnamed project/ - 
+2021-12-20T02:12:06.5236282+01:00:#1: Default - 
+2021-12-20T02:12:06.5236282+01:00:#2: SpecFlowCalculator.Specs - 
+2021-12-20T02:12:06.5236282+01:00:#3: Calculator - 
+2021-12-20T02:12:06.5556610+01:00:#4: Add two numbers - TestAssembly:SpecFlowCalculator.Specs/Feature:Calculator/Scenario:Add+two+numbers
+2021-12-20T02:12:06.5556610+01:00:End: Test Suite Dump
+2021-12-20T02:12:06.5756302+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-12-20T02:12:06.5766301+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-12-20T02:12:06.5776299+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-12-20T02:12:06.5806305+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-12-20T02:12:06.5806305+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-12-20T02:12:06.5806305+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-12-20T02:12:06.5806305+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-12-20T02:12:06.5826302+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-12-20T02:12:06.5826302+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-12-20T02:12:06.5856306+01:00:Thread #0: creating new test thread executor for SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-12-20T02:12:06.5876302+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-12-20T02:12:06.6186251+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-12-20T02:12:06.6196251+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-12-20T02:12:08.2744209+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\LivingDoc.SpecFlowPlugin.dll
+2021-12-20T02:12:08.3423826+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-12-20T02:12:08.3753896+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:12:08.3753896+01:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-12-20T02:12:08.3833893+01:00:Thread#0:T:-> Using default config
+2021-12-20T02:12:08.8647213+01:00:Thread#0: Test #4/0 is started on thread #0
+2021-12-20T02:12:08.8877175+01:00:Thread#0:B:Given the first number is 50
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:        [Given(@"the first number is (.*)")]
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:        public void GivenTheFirstNumberIs(int p0)
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.0577562+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.0597503+01:00:Thread#0:B:And the second number is 70
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:        [Given(@"the second number is (.*)")]
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:        public void GivenTheSecondNumberIs(int p0)
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.0727171+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.0737192+01:00:Thread#0:B:When the two numbers are added
+2021-12-20T02:12:09.0777173+01:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-12-20T02:12:09.0777173+01:00:Thread#0:T:        [When(@"the two numbers are added")]
+2021-12-20T02:12:09.0787189+01:00:Thread#0:T:        public void WhenTheTwoNumbersAreAdded()
+2021-12-20T02:12:09.0787189+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.0787189+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.0787189+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.0787189+01:00:Thread#0:B:Then the result should be 120
+2021-12-20T02:12:09.0837161+01:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-12-20T02:12:09.0837161+01:00:Thread#0:T:        [Then(@"the result should be (.*)")]
+2021-12-20T02:12:09.0847211+01:00:Thread#0:T:        public void ThenTheResultShouldBe(int p0)
+2021-12-20T02:12:09.0847211+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.0847211+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.0847211+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:using System;
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:using TechTalk.SpecFlow;
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:namespace MyNamespace
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:{
+2021-12-20T02:12:09.1927530+01:00:Thread#0:T:    [Binding]
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:    public class StepDefinitions
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:    {
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        [Given(@"the first number is (.*)")]
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        public void GivenTheFirstNumberIs(int p0)
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.1937198+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        [Given(@"the second number is (.*)")]
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        public void GivenTheSecondNumberIs(int p0)
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        [When(@"the two numbers are added")]
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        public void WhenTheTwoNumbersAreAdded()
+2021-12-20T02:12:09.1947200+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        [Then(@"the result should be (.*)")]
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        public void ThenTheResultShouldBe(int p0)
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        {
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:            _scenarioContext.Pending();
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:        }
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:    }
+2021-12-20T02:12:09.1957198+01:00:Thread#0:T:}
+2021-12-20T02:12:09.2027186+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-12-20T02:12:09.2027186+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-12-20T02:12:09.2027186+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-12-20T02:12:09.2027186+01:00:Thread#0:Scheduler: No more tests for thread
+2021-12-20T02:12:09.2197206+01:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.3530001 seconds
+2021-12-20T02:12:09.2437210+01:00:Thread#0:T:-> LivingDocPlugin: Output generated in: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\TestExecution.json
+2021-12-20T02:12:09.9557824+01:00:Trying to cancel thread
+2021-12-20T02:12:09.9557824+01:00:Thread cancelled
+2021-12-20T02:12:09.9718362+01:00:Thread#-1:Scheduler: get next test for thread -1
+2021-12-20T02:12:09.9718362+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-12-20T02:12:09.9718362+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-12-20T02:12:09.9777983+01:00;Thread#13;Info;test run finished
+2021-12-20T02:12:09.9777983+01:00;Thread#13;Info;publishing test results
+2021-12-20T02:12:10.2969135+01:00;Thread#13;Info;test results published
+2021-12-20T02:12:10.2969135+01:00;Thread#13;Info;generating reports
+2021-12-20T02:12:10.3959487+01:00;Thread#13;Info;Starting external report generation process
+2021-12-20T02:12:11.9773416+01:00;Thread#13;Info;Successfully generated reports.
+2021-12-20T02:12:11.9793387+01:00;Thread#13;Info;Successfully generated reports
+2021-12-20T02:12:11.9873429+01:00:Total: 1
+2021-12-20T02:12:11.9893426+01:00:Succeeded: 0
+2021-12-20T02:12:11.9893426+01:00:Ignored: 0
+2021-12-20T02:12:11.9903423+01:00:Pending: 1
+2021-12-20T02:12:11.9903423+01:00:Skipped: 0
+2021-12-20T02:12:11.9903423+01:00:Failed: 0
+2021-12-20T02:12:12.0013419+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-12-20T02:12:12.0013419+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults\Unnamed project__2021-12-20T021206.html'
+========== End of log file ==========

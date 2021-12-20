@@ -1,0 +1,78 @@
+﻿2021-12-20T02:08:00.4788108+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-12-20T02:08:00.4798108+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+2021-12-20T02:08:00.4798108+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-12-20T02:08:00.4798108+01:00;VSTestExecutionThread;Info;Current UserName: '320145759', MachineName: 'YY241610'
+2021-12-20T02:08:00.5388116+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:08:00.5388116+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults" (default)
+2021-12-20T02:08:00.5388116+01:00;VSTestExecutionThread;Info;Profile: 
+2021-12-20T02:08:00.5928413+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults\Unnamed project__2021-12-20T020800.log
+2021-12-20T02:08:00.5999825+01:00;Thread#13;Info;Checking activation
+2021-12-20T02:08:02.7697285+01:00;Thread#13;Info;Activated.
+2021-12-20T02:08:02.7697285+01:00;Thread#13;Info;Activation check completed
+2021-12-20T02:08:02.7697285+01:00;Thread#13;Info;Starting test run
+2021-12-20T02:08:02.7797643+01:00;Thread#13;Info;Discovering target: Default
+2021-12-20T02:08:02.7807784+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:08:03.0677643+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:08:03.0687315+01:00:Test Suite Dump
+2021-12-20T02:08:03.0697313+01:00:#0: Unnamed project/ - 
+2021-12-20T02:08:03.0697313+01:00:#1: Default - 
+2021-12-20T02:08:03.0697313+01:00:#2: SpecFlowCalculator.Specs - 
+2021-12-20T02:08:03.0697313+01:00:#3: Calculator - 
+2021-12-20T02:08:03.1027681+01:00:#4: Add two numbers - TestAssembly:SpecFlowCalculator.Specs/Feature:Calculator/Scenario:Add+two+numbers
+2021-12-20T02:08:03.1027681+01:00:End: Test Suite Dump
+2021-12-20T02:08:03.1248144+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-12-20T02:08:03.1267751+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-12-20T02:08:03.1267751+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-12-20T02:08:03.1308110+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-12-20T02:08:03.1308110+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-12-20T02:08:03.1308110+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-12-20T02:08:03.1308110+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-12-20T02:08:03.1317770+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-12-20T02:08:03.1328105+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-12-20T02:08:03.1348117+01:00:Thread #0: creating new test thread executor for SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-12-20T02:08:03.1367789+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-12-20T02:08:03.1408117+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-12-20T02:08:03.1427752+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-12-20T02:08:03.3978102+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\LivingDoc.SpecFlowPlugin.dll
+2021-12-20T02:08:03.4098113+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-12-20T02:08:03.4158124+01:00:Thread#0:T:-> Loading plugin C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\SpecFlowCalculator.Specs.dll
+2021-12-20T02:08:03.4158124+01:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-12-20T02:08:03.4218103+01:00:Thread#0:T:-> Using default config
+2021-12-20T02:08:03.6767764+01:00:Thread#0: Test #4/0 is started on thread #0
+2021-12-20T02:08:03.7067755+01:00:Thread#0:B:Given the first number is 50
+2021-12-20T02:08:03.8707804+01:00:Thread#0:T:pending: CalculatorStepDefinitions.GivenTheFirstNumberIs(50)
+2021-12-20T02:08:03.8727801+01:00:Thread#0:B:And the second number is 70
+2021-12-20T02:08:03.8737805+01:00:Thread#0:T:skipped because of previous errors
+2021-12-20T02:08:03.8767812+01:00:Thread#0:B:When the two numbers are added
+2021-12-20T02:08:03.8767812+01:00:Thread#0:T:skipped because of previous errors
+2021-12-20T02:08:03.8777816+01:00:Thread#0:B:Then the result should be 120
+2021-12-20T02:08:03.8777816+01:00:Thread#0:T:skipped because of previous errors
+2021-12-20T02:08:03.8887828+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2021-12-20T02:08:03.8887828+01:00:Thread#0:T:  CalculatorStepDefinitions.GivenTheFirstNumberIs(50)
+2021-12-20T02:08:03.8957827+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-12-20T02:08:03.8957827+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-12-20T02:08:03.8957827+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-12-20T02:08:03.8957827+01:00:Thread#0:Scheduler: No more tests for thread
+2021-12-20T02:08:03.9057795+01:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.2270028 seconds
+2021-12-20T02:08:03.9337767+01:00:Thread#0:T:-> LivingDocPlugin: Output generated in: C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator.Specs\bin\Debug\net48\TestExecution.json
+2021-12-20T02:08:04.6564522+01:00:Trying to cancel thread
+2021-12-20T02:08:04.6564522+01:00:Thread cancelled
+2021-12-20T02:08:04.6764572+01:00:Thread#-1:Scheduler: get next test for thread -1
+2021-12-20T02:08:04.6764572+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-12-20T02:08:04.6764572+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-12-20T02:08:04.6804917+01:00;Thread#13;Info;test run finished
+2021-12-20T02:08:04.6814522+01:00;Thread#13;Info;publishing test results
+2021-12-20T02:08:04.7963889+01:00;Thread#13;Info;test results published
+2021-12-20T02:08:04.7963889+01:00;Thread#13;Info;generating reports
+2021-12-20T02:08:04.8933583+01:00;Thread#13;Info;Starting external report generation process
+2021-12-20T02:08:06.6163207+01:00;Thread#13;Info;Successfully generated reports.
+2021-12-20T02:08:06.6183226+01:00;Thread#13;Info;Successfully generated reports
+2021-12-20T02:08:06.6263607+01:00:Total: 1
+2021-12-20T02:08:06.6283561+01:00:Succeeded: 0
+2021-12-20T02:08:06.6283561+01:00:Ignored: 0
+2021-12-20T02:08:06.6293230+01:00:Pending: 1
+2021-12-20T02:08:06.6293230+01:00:Skipped: 0
+2021-12-20T02:08:06.6293230+01:00:Failed: 0
+2021-12-20T02:08:06.6413209+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-12-20T02:08:06.6413209+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\320145759\Documents\Reporting_AzureDevops\SampleReporting\SpecFlowCalculator\TestResults\Unnamed project__2021-12-20T020800.html'
+========== End of log file ==========
